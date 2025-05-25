@@ -1,3 +1,12 @@
+### QUICK INSTALL FOR RPI
+
+```bash
+git clone https://github.com/lodomo/LCD-show
+chmod -R 755 LCD-show
+cd LCD-show
+sudo ./MPI4008-show
+```
+
 ### Install drivers in the Ubuntu system
 https://github.com/lcdwiki/LCD-show-ubuntu
 
